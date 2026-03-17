@@ -1,0 +1,7 @@
+body { font-family: Arial; margin:0; }
+header { background:#ff6f91; color:white; padding:10px; display:flex; justify-content:space-between; }
+nav a { color:white; margin:10px; text-decoration:none; }
+.hero { text-align:center; padding:100px; background:#ffe4ec; }
+.products { display:flex; gap:20px; padding:20px; }
+.card { border:1px solid #ccc; padding:10px; }
+button { background:#ff6f91; color:white; border:none; padding:8px; cursor:pointer; }
